@@ -16,6 +16,10 @@ Key focus areas:
 - Casualties by vehicle type
 - Road and weather conditions
 - Monthly accident trends
+  
+📊 Dashboard Preview
+<img width="1447" height="667" alt="snapshot of road accident" src="https://github.com/user-attachments/assets/852420bb-1bd2-4886-8693-2e0b02ee0ced" />
+
 
 ---
 
