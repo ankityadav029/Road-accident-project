@@ -1,11 +1,11 @@
-🚦 Road Accident Analysis Dashboard (Excel)
+ Road Accident Analysis Dashboard (Excel)
 
 This project presents a Road Accident Analysis Dashboard created in Microsoft Excel to analyze accident trends, casualty severity, and road conditions.
 The dashboard helps identify patterns in accidents and provides insights that can support road safety improvements.
 
 ---
 
-🎯 Project Objective
+ Project Objective
 
 The goal of this project is to analyze accident data and understand key factors contributing to road casualties.
 
@@ -17,13 +17,13 @@ Key focus areas:
 - Road and weather conditions
 - Monthly accident trends
   
-📊 Dashboard Preview
+ Dashboard Preview
 <img width="1447" height="667" alt="snapshot of road accident" src="https://github.com/user-attachments/assets/852420bb-1bd2-4886-8693-2e0b02ee0ced" />
 
 
 ---
 
-📊 Key Dashboard Features
+ Key Dashboard Features
 
 Casualty Overview
 
@@ -55,7 +55,7 @@ Interactive Filters
 
 ---
 
-🛠 Tools Used
+ Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -64,7 +64,7 @@ Interactive Filters
 
 ---
 
-💡 Key Insights
+ Key Insights
 
 - Slight severity accidents account for the majority of cases
 - Most accidents occur on single carriageway roads
